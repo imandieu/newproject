@@ -29,22 +29,26 @@ layout:
 
 <table><thead><tr><th width="231">Danh mục</th><th width="132.99999999999997">Số lượng</th><th>Note</th></tr></thead><tbody><tr><td>Tài khoản ngân hàng quốc tế</td><td>1-2</td><td>Tối đa 6 loại tiền tệ: VNĐ, USD, SGD, CNH, JPY, HKD</td></tr><tr><td>Tạo tài khoản bán hàng nội địa &#x26; quốc tế</td><td>1-6</td><td>Hiện tại không mở được Lazada VN </td></tr><tr><td>Global Shop</td><td>1</td><td>Shop Affiliate trên taobao, giao diện mobile</td></tr><tr><td>Extension trên Chrome/Cốc cốc</td><td>1</td><td>Miễn phí duy trì dịch vụ 1 năm đầu, các năm tiếp theo khách hàng chủ động thanh toán</td></tr><tr><td>Tài liệu vận hành</td><td>1</td><td>01 bộ Text/Video HDSD</td></tr></tbody></table>
 
-## 1. Tài khoản quốc tế
+## 1. Tài khoản ngân hàng quốc tế
 
-* Hỗ trợ mở các tài khoản nhận tiền quốc tế (Đúng tên khách hàng).
-* Các nước: VN, HK, Sing, Thái, Phil, Myanma
+* Hỗ trợ mở các tài khoản nhận tiền quốc tế (Chính chủ, đứng tên khách hàng).
+* Loại tiền tệ: VN, HK, Sing, Thái, Phil, Myanma
 
 {% tabs %}
-{% tab title="Tài khoản" %}
+{% tab title="Ảnh 1" %}
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Ngân hàng quốc tế</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Ngân hàng quốc tế</p></figcaption></figure>
 
 </div>
 {% endtab %}
 
-{% tab title="Tài khoản" %}
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p> Tài khoản quốc tế</p></figcaption></figure>
+{% tab title="Ảnh 2" %}
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p> Tài khoản quốc tế</p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Untitled" %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -56,16 +60,45 @@ layout:
 
 #### Taobao.com
 
-* [https://anshouse.world.taobao.com/](https://anshouse.world.taobao.com/)
+* Link shop tham khảo: [https://anshouse.world.taobao.com/](https://anshouse.world.taobao.com/)
+* Hình minh họa:
 
 {% tabs %}
 {% tab title="Giao diện khách" %}
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Giao diện quản lý shop" %}
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-## Awesome Feature Two
+#### Lazada Global
+
+> Link shop tham khảo: [https://www.lazada.co.th/shop/vivianstore](https://www.lazada.co.th/shop/vivianstore)
+>
+> * _Shop chưa ký quỹ và đóng phí dịch vụ nên phải đăng nhập mới xem được_
+
+{% tabs %}
+{% tab title="First Tab" %}
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="2nd" %}
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Second Tab" %}
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
