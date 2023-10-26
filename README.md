@@ -28,8 +28,8 @@ layout:
 [dich-vu-chinh.md](global-business/dich-vu-chinh.md)
 {% endcontent-ref %}
 
-{% content-ref url="global-business/dich-vu-thuong-mai.md" %}
-[dich-vu-thuong-mai.md](global-business/dich-vu-thuong-mai.md)
+{% content-ref url="global-business/dich-vu-thuong-mai/" %}
+[dich-vu-thuong-mai](global-business/dich-vu-thuong-mai/)
 {% endcontent-ref %}
 
 ## Get Started
