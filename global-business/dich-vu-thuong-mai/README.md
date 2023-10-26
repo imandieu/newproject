@@ -27,7 +27,7 @@ layout:
 
 ## Chi tiết dịch vụ
 
-<table><thead><tr><th width="231">Danh mục</th><th width="132.99999999999997">Số lượng</th><th>Note</th></tr></thead><tbody><tr><td>Tài khoản quốc tế</td><td>1-2</td><td>Tối đa 6 loại tiền tệ: VNĐ, USD, SGD, CNH, JPY, HKD</td></tr><tr><td>Tài khoản shop</td><td>1-6</td><td>Lazada VN hiện tại không mở được</td></tr><tr><td>Công cụ vận hành shop</td><td>1</td><td>Miễn phí duy trì dịch vụ 1 năm đầu, các năm tiếp theo khách hàng chủ động thanh toán</td></tr><tr><td>Tài liệu vận hành</td><td>1</td><td>01 bộ Text/Video HDSD</td></tr></tbody></table>
+<table><thead><tr><th width="231">Danh mục</th><th width="132.99999999999997">Số lượng</th><th>Note</th></tr></thead><tbody><tr><td>Tài khoản ngân hàng quốc tế</td><td>1-2</td><td>Tối đa 6 loại tiền tệ: VNĐ, USD, SGD, CNH, JPY, HKD</td></tr><tr><td>Tạo tài khoản bán hàng nội địa &#x26; quốc tế</td><td>1-6</td><td>Hiện tại không mở được Lazada VN </td></tr><tr><td>Global Shop</td><td>1</td><td>Shop Affiliate trên taobao, giao diện mobile</td></tr><tr><td>Extension trên Chrome/Cốc cốc</td><td>1</td><td>Miễn phí duy trì dịch vụ 1 năm đầu, các năm tiếp theo khách hàng chủ động thanh toán</td></tr><tr><td>Tài liệu vận hành</td><td>1</td><td>01 bộ Text/Video HDSD</td></tr></tbody></table>
 
 ## 1. Tài khoản quốc tế
 
@@ -53,5 +53,19 @@ layout:
 * Mở shop trên các sàn TMĐT: Taobao, 1688, Tmall, Shopee, Lazada, Tiktok (Douyin) theo hình thức Phân phối sản phẩm
 
 > _**Lưu ý:**_ Chi phí kích hoạt shop áp dụng theo quy định riêng của sàn TMĐT không nằm trong phí dịch vụ khởi tạo tài khoản
+
+#### Taobao.com
+
+* [https://anshouse.world.taobao.com/](https://anshouse.world.taobao.com/)
+
+{% tabs %}
+{% tab title="Giao diện khách" %}
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Giao diện quản lý shop" %}
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## Awesome Feature Two
