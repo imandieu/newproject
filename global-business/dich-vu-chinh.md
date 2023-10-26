@@ -12,12 +12,14 @@ layout:
     visible: true
 ---
 
-# 💡 What we do
+# 💡 Dịch vụ chính
 
 {% hint style="success" %}
 1. **Dịch vụ Thương mại**
 2. **Dịch vụ Nội bộ**
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/New Project (2).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 

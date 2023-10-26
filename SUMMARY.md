@@ -2,10 +2,11 @@
 
 * [👋 Welcome!](README.md)
 
-## Overview
+## &#x20;Global Business
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Dịch vụ chính](global-business/dich-vu-chinh.md)
+* [1⃣ Dịch vụ Thương mại](global-business/dich-vu-thuong-mai.md)
+* [2⃣ Page](global-business/page.md)
 
 ## Product Guides
 
