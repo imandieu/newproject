@@ -44,7 +44,7 @@ layout:
 {% endtab %}
 
 {% tab title="Ảnh 2" %}
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p> Tài khoản quốc tế</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p> Tài khoản quốc tế</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Untitled" %}
@@ -80,6 +80,10 @@ layout:
 > * _Shop chưa ký quỹ và đóng phí dịch vụ nên phải đăng nhập mới xem được_
 
 {% tabs %}
+{% tab title="1st" %}
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
 {% tab title="First Tab" %}
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -89,13 +93,15 @@ layout:
 {% endtab %}
 
 {% tab title="Second Tab" %}
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
+#### Shopee Global
+
 {% tabs %}
 {% tab title="First Tab" %}
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Second Tab" %}
