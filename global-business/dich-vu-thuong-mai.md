@@ -38,13 +38,13 @@ layout:
 {% tab title="Ảnh 1" %}
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Ngân hàng quốc tế</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Ngân hàng quốc tế</p></figcaption></figure>
 
 </div>
 {% endtab %}
 
 {% tab title="Ảnh 2" %}
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p> Tài khoản quốc tế</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p> Tài khoản quốc tế</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Untitled" %}
@@ -65,11 +65,11 @@ layout:
 
 {% tabs %}
 {% tab title="Giao diện khách" %}
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Giao diện quản lý shop" %}
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -81,19 +81,19 @@ layout:
 
 {% tabs %}
 {% tab title="1st" %}
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="First Tab" %}
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="2nd" %}
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Second Tab" %}
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -101,7 +101,7 @@ layout:
 
 {% tabs %}
 {% tab title="First Tab" %}
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Second Tab" %}

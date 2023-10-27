@@ -7,7 +7,7 @@
 * [📌 Dịch vụ chính](global-business/dich-vu-chinh.md)
 * [📁 Phiếu yêu cầu triển khai](global-business/phieu-yeu-cau-trien-khai/README.md)
   * [👉 So sánh chi phí vận hành các sàn TMĐT](global-business/phieu-yeu-cau-trien-khai/so-sanh-chi-phi-van-hanh-cac-san-tmdt.md)
-* [1⃣ Dịch vụ Thương mại](global-business/dich-vu-thuong-mai/README.md)
+* [1⃣ Dịch vụ Thương mại](global-business/dich-vu-thuong-mai.md)
   * [👉 Vận hành hộ](global-business/dich-vu-thuong-mai/van-hanh-ho/README.md)
     * [Vận chuyển hộ](global-business/dich-vu-thuong-mai/van-hanh-ho/van-chuyen-ho.md)
     * [Xử lý hàng hoàn](global-business/dich-vu-thuong-mai/van-hanh-ho/xu-ly-hang-hoan.md)

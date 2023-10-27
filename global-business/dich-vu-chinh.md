@@ -25,9 +25,7 @@ layout:
 
 <summary>Dịch vụ Thương mại là gì?</summary>
 
-Dịch vụ cung cấp giải pháp bán hàng xuyên biên giới trên các sàn TMĐT cho các chủ doanh nghiệp có trụ sở kinh doanh tại VN & TQ
-
-Cung cấp cho khách hàng tại VN và TQ các giải pháp kinh doanh xuyên biên giới trên Taobao, 1688, Tmall, Shopee, Lazada, Shopify, Tiktok (Douyin)…
+Dịch vụ cung cấp cho khách hàng tại VN và TQ các giải pháp kinh doanh xuyên biên giới trên Taobao, 1688, Tmall, Shopee, Lazada, Shopify, Tiktok (Douyin)…
 
 
 
