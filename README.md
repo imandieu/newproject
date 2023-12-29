@@ -20,8 +20,6 @@ layout:
 
 # 👋 Welcome!
 
-<figure><img src=".gitbook/assets/New Project (3).png" alt=""><figcaption></figcaption></figure>
-
 {% content-ref url="global-business/dich-vu-chinh.md" %}
 [dich-vu-chinh.md](global-business/dich-vu-chinh.md)
 {% endcontent-ref %}
